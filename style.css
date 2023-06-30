@@ -1,0 +1,64 @@
+.navbar-item{
+    text-align: center;
+}
+h1{
+    font-size: 100px;
+}
+#Projects:hover{
+    background-color: white;
+    border: none;
+}
+.lets:hover{
+    background-color: white;
+}
+.active{
+    font-weight: 600;
+    text-decoration: underline 3px solid red;
+    
+}
+#btn{
+    border: 4px solid red;
+    color: black;
+    font-size: larger;
+    font-weight: 700;
+}
+.nav-item{
+    font-size: larger;
+}
+.n{
+    width: 45%;
+}
+
+input{
+    width: 92%;
+    height: 40px;
+    outline: none;
+    border: 2px solid black;
+}
+textarea{
+    width: 92%;
+    margin-left: 22px;
+    outline: none;
+    border: 2px solid black;
+
+}
+:placeholder-shown{
+    padding-left: 10px;
+}
+/* i{
+    position:absolute;
+    margin-top: 13px;
+    margin-left: 7px;
+} */
+.button{
+    width: 98%;
+    text-align: center;
+    /* background-color: rgba(7, 141, 7, 0.822); */
+    /* border: 2px solid black; */
+
+}
+.img{
+    width: 100%;
+    height: 650px;
+
+}

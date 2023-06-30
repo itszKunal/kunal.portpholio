@@ -1,0 +1,11 @@
+h3{
+    color: aqua;
+}
+table{
+    border: 4px dashed red;
+    border-radius: 10px;
+}
+body{
+    background-color: black;
+    color: aqua;
+}
