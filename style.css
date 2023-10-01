@@ -19,27 +19,30 @@ h1{
 #btn{
     border: 4px solid red;
     color: black;
-    font-size: larger;
+    font-size:medium;
     font-weight: 700;
+    margin-right: 8%;
 }
 .nav-item{
     font-size: larger;
 }
 .n{
-    width: 45%;
+    width: 47%;
 }
 
 input{
-    width: 92%;
+    width: 95%;
     height: 40px;
     outline: none;
     border: 2px solid black;
+    border-radius: 8px;
 }
 textarea{
-    width: 92%;
-    margin-left: 22px;
+    width: 95%;
+    margin-left: 0px;
     outline: none;
     border: 2px solid black;
+    border-radius: 8px;
 
 }
 :placeholder-shown{
@@ -51,14 +54,33 @@ textarea{
     margin-left: 7px;
 } */
 .button{
-    width: 98%;
+    width: 95%;
     text-align: center;
     /* background-color: rgba(7, 141, 7, 0.822); */
     /* border: 2px solid black; */
+    background-color: rgb(149, 130, 255);
+    font-weight: 700;
 
+}
+.button:hover{
+    background-color: rgb(184, 180, 226);
 }
 .img{
     width: 100%;
     height: 650px;
-
+    /* border: 30px solid black; */
+}
+#sicon{
+    width: 5%;
+    margin-left: 1%;
+    /* width: 10%; */
+}
+#sicon1{
+    width: 10%;
+    margin-left: 1%;
+    /* width: 10%; */
+}
+.full-footer{
+    background-color: rgb(27, 26, 26);
+    height: 200px;
 }
